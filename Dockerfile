@@ -4,4 +4,5 @@ RUN apt-get update && apt-get install -y  \
     man \
     vim \
     git \
-    binutils
+    binutils \
+    procps
